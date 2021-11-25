@@ -7,20 +7,18 @@
 ### Connect With Me:
 
 LinkedIn: https://www.linkedin.com/in/prasantaqa/
-
 <br />
 ### Languages & Tools:
 
 🔭 Java<br />
-🔭 JavaScript
-🔭 Python
-🔭 Unit Testing Libraries: JUnit & TestNG (Java), Chai & Mocha (JavaScript)
-🔭 Selenium 3 & 4
-🔭 Postman
-🔭 Rest Assured
-🔭 Cucumber BDD Framework
-🔭 NodeJS
-🔭 WebDriver IO
-
+🔭 JavaScript<br />
+🔭 Python<br />
+🔭 Unit Testing Libraries: JUnit & TestNG (Java), Chai & Mocha (JavaScript)<br />
+🔭 Selenium 3 & 4<br />
+🔭 Postman<br />
+🔭 Rest Assured<br />
+🔭 Cucumber BDD Framework<br />
+🔭 NodeJS<br />
+🔭 WebDriver IO<br />
 <br />
 <br />
