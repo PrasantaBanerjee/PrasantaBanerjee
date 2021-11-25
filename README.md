@@ -6,7 +6,7 @@
 
 ### Connect With Me:
 
-GMail:    Prasanta.Banerjee77@gmail.com
+GMail:    Prasanta.Banerjee77@gmail.com<br />
 LinkedIn: https://www.linkedin.com/in/prasantaqa/
 
 ### Languages & Tools:
@@ -15,7 +15,7 @@ LinkedIn: https://www.linkedin.com/in/prasantaqa/
 🔭 JavaScript<br />
 🔭 Python<br />
 🔭 Unit Testing Libraries: JUnit & TestNG (Java)<br />
-                           Chai & Mocha (JavaScript)<br />
+&ensp; &ensp; &ensp; &ensp; Chai & Mocha (JavaScript)<br />
 🔭 Selenium 3 & 4<br />
 🔭 Postman<br />
 🔭 Rest Assured<br />
