@@ -11,7 +11,7 @@
 
 - 📫 You can reach out to me at **Prasanta.Banerjee77@gmail.com**
 
-- ⚡ Fun fact **I'm obsessed with "The Godfather" trilogy**
+- ⚡ Fun fact: **I'm obsessed with "The Godfather" trilogy**
 
 <br/>
 ### Connect with me:
