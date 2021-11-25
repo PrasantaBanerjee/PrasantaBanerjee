@@ -6,19 +6,20 @@
 
 ### Connect With Me:
 
+GMail:    Prasanta.Banerjee77@gmail.com
 LinkedIn: https://www.linkedin.com/in/prasantaqa/
-<br />
+
 ### Languages & Tools:
 
 🔭 Java<br />
 🔭 JavaScript<br />
 🔭 Python<br />
-🔭 Unit Testing Libraries: JUnit & TestNG (Java), Chai & Mocha (JavaScript)<br />
+🔭 Unit Testing Libraries: JUnit & TestNG (Java)<br />
+                           Chai & Mocha (JavaScript)<br />
 🔭 Selenium 3 & 4<br />
 🔭 Postman<br />
 🔭 Rest Assured<br />
 🔭 Cucumber BDD Framework<br />
 🔭 NodeJS<br />
 🔭 WebDriver IO<br />
-<br />
 <br />
