@@ -11,7 +11,7 @@ LinkedIn: https://www.linkedin.com/in/prasantaqa/
 <br />
 ### Languages & Tools:
 
-🔭 Java
+🔭 Java<br />
 🔭 JavaScript
 🔭 Python
 🔭 Unit Testing Libraries: JUnit & TestNG (Java), Chai & Mocha (JavaScript)
