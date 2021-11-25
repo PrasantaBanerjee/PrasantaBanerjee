@@ -6,16 +6,16 @@
 
 ### Connect With Me:
 
-GMail:    Prasanta.Banerjee77@gmail.com<br />
-LinkedIn: https://www.linkedin.com/in/prasantaqa/
+Mail&ensp;&ensp;&ensp;&ensp; :&ensp;&ensp;Prasanta.Banerjee77@gmail.com<br />
+LinkedIn&ensp;:&ensp;&ensp;https://www.linkedin.com/in/prasantaqa/
 
 ### Languages & Tools:
 
 🔭 Java<br />
 🔭 JavaScript<br />
 🔭 Python<br />
-🔭 Unit Testing Libraries: JUnit & TestNG (Java)<br />
-&ensp; &ensp; &ensp; &ensp; Chai & Mocha (JavaScript)<br />
+🔭 Unit Testing Libraries:&ensp;JUnit & TestNG (Java)<br />
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Chai & Mocha&ensp;(JavaScript)<br />
 🔭 Selenium 3 & 4<br />
 🔭 Postman<br />
 🔭 Rest Assured<br />
