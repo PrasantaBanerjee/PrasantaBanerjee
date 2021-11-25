@@ -9,7 +9,6 @@
 LinkedIn: https://www.linkedin.com/in/prasantaqa/
 
 <br />
-
 ### Languages & Tools:
 
 🔭 Java
