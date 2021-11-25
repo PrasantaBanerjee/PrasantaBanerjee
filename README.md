@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **QA Testing, Selenium & REST API Automation**
 
-- 📫 You can reach me out at **Prasanta.Banerjee77@gmail.com**
+- 📫 You can reach out to me at **Prasanta.Banerjee77@gmail.com**
 
 - ⚡ Fun fact **I'm obsessed with "The Godfather" trilogy**
 
