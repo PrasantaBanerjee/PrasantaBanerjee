@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Prasanta Banerjee
-- 🔭 I’m presently working as a **Automation Engineer @ TIAA Bank**
+- 🔭 I’m presently working as a **Automation Engineer @ Accenture**
 
 - 🌱 I’m currently learning **everything**
 
@@ -7,12 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrasantaBanerjee?tab=repositories](https://github.com/PrasantaBanerjee?tab=repositories)
 
-- 💬 Ask me about **QA Testing, Selenium & REST API Automation**
+- 💬 Ask me about **QA Testing, Selenium, REST API Automation, Git & CI/CD**
 
 - 📫 You can reach out to me at **Prasanta.Banerjee77@gmail.com**
-
-- ⚡ Fun fact: **I'm obsessed with "The Godfather" trilogy**
-
 
 ### Connect with me:
 <p align="left">
