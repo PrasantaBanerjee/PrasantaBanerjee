@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Prasanta Banerjee
-- 🔭 I’m presently working as a **Automation Engineer @ Accenture** with total experience of over 5 Years.
+- 🔭 I’m presently working as a **Senior Automation Engineer @ Accenture** with total experience of over 5 Years.
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **everything**.
 
 - 👯 I’m looking to collaborate on **Open-Source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrasantaBanerjee?tab=repositories](https://github.com/PrasantaBanerjee?tab=repositories)
 
-- 💬 Ask me about **QA Testing, Selenium, REST API Automation, Git & CI/CD**
+- 💬 Ask me about **QA Testing, Selenium, REST API Automation, Git, Jenkins & Agile**.
 
 - 📫 You can reach out to me at **Prasanta.Banerjee77@gmail.com**
 
