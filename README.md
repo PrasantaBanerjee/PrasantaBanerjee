@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **everything**.
 
-- 👯 I’m looking to collaborate on **Open-Source projects**
+- 👯 I’m looking to collaborate on **Open-Source projects**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrasantaBanerjee?tab=repositories](https://github.com/PrasantaBanerjee?tab=repositories)
 
